@@ -95,3 +95,14 @@ Location: C:\Users\OFD2\AppData\Local\Programs\Python\Python311\Lib\site-package
 Requires:
 Required-by: anyio, httpx, requests, yarl
 ____________________________________________
+C:\Users\OFD2\Desktop\gpt4all>pip show chromadb
+Name: chromadb
+Version: 0.4.22
+Summary: Chroma.
+Home-page:
+Author:
+Author-email: Jeff Huber <jeff@trychroma.com>, Anton Troynikov <anton@trychroma.com>
+License:
+Location: C:\Users\OFD2\AppData\Local\Programs\Python\Python311\Lib\site-packages
+Requires: bcrypt, build, chroma-hnswlib, fastapi, grpcio, importlib-resources, kubernetes, mmh3, numpy, onnxruntime, opentelemetry-api, opentelemetry-exporter-otlp-proto-grpc, opentelemetry-instrumentation-fastapi, opentelemetry-sdk, overrides, posthog, pulsar-client, pydantic, pypika, PyYAML, requests, tenacity, tokenizers, tqdm, typer, typing-extensions, uvicorn
+Required-by:
